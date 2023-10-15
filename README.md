@@ -1,10 +1,10 @@
 ## Description:
 
-  ### Objective:
+### Objective:
           
     The goal of this assignment is to write a Python program that reverses a given string without using any custom functions.
   
- ### Instructions:
+### Instructions:
 	  
 	  1. Write a Python program that takes a string as input from the user.
 			
@@ -12,7 +12,7 @@
 			
 	  3. Print the reversed string as the output.
 			
-  ### Input Constraints:
+### Input Constraints:
   
   	1. The input string will contain only printable ASCII characters (no control characters or non-printable characters).
 			
@@ -29,5 +29,5 @@ Expected Output2: "nuf si nohtyP"
 
 
 Input3: "12345"
-Expected Output3: "54321
+Expected Output3: "54321"
 ```

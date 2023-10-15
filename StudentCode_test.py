@@ -3,9 +3,10 @@ from IOWrapper import IOWrapper
 testIO = IOWrapper()
 expectedIO = IOWrapper()
 
+
 def test_hello():
-    expectedList = ["Yes","No","Yes","Yes"]
-    testList = [9474,372,1634,0]
+    expectedList = ["!dlroW ,olleH", "nuf si nohtyP", "54321"]
+    testList = ["Hello, World!", "Python is fun", "12345"]
     i=0
     for expected in expectedList:
         testArg = testList[i]                                                                  # use these lOCs while using list object
