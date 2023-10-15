@@ -4,8 +4,8 @@ testIO = IOWrapper()
 expectedIO = IOWrapper()
 
 def test_hello():
-    expectedList = ["YES","NO","YES","YES"]
-    testList = [9474,371,1634,0]
+    expectedList = ["Yes","No","Yes","Yes"]
+    testList = [9474,372,1634,0]
     i=0
     for expected in expectedList:
         testArg = testList[i]                                                                  # use these lOCs while using list object
